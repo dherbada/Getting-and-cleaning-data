@@ -1,4 +1,4 @@
-# This scripts takes as input the unzipped directory UCI HAR Dataset which must be
+# This script takes as its input the unzipped directory UCI HAR Dataset which must be
 # placed in the working directory of R. 
 # This script also requires that plyr and dplyr are installed in R.
 
